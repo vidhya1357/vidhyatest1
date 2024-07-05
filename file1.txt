@@ -3,11 +3,17 @@
 3
 4
 5
+<<<<<<< HEAD
+*change hotfix
+*change hotfix
+=======
 6 delete
 7 delete 
+>>>>>>> main
 8
 9
-101
+10
+1
 2
 3
 4
@@ -19,3 +25,13 @@
 10
 1
 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
+=======
+11
+11
+11
+>>>>>>> 10fa5c13be6ebb66d2c0d326c3db397c905fba6b
